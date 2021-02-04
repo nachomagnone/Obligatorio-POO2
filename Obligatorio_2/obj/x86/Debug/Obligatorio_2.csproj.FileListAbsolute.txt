@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\Segundo Obligatorio\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\Segundo Obligatorio\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\Segundo Obligatorio\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Segundo Obligatorio\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\Segundo Obligatorio\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.exe
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\bin\Debug\Obligatorio_2.pdb
+C:\Users\Administrador\Desktop\BIOS - PRIMER AÑO\BIOS - Primer año - POO 1 y 2\Obligatorio POO2\Obligatorio_2\Obligatorio_2\obj\x86\Debug\Obligatorio_2.csprojResolveAssemblyReference.cache
